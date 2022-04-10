@@ -24,5 +24,7 @@ public class CustomerTester {
     public static void main(String[] args) {
         addCustomer("justinkim36@naver.com", "Joon", "Kim");
 
+        System.out.println(customers);
+
     }
 }
